@@ -35,4 +35,4 @@ Comandos a seguir para crear una página web para nuestros proyectos:
 	git push https://*token personal*@github.com/*nombre de usuario*/*repositorio*
 
 ----
-Edited by [Jaglux12](www.github.com/jaglux12)
+Edited by [Jaglux12](https://www.github.com/jaglux12)

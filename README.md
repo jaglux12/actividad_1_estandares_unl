@@ -1,32 +1,38 @@
-Initio - Free, multipurpose html5 template
+Initio - Plantilla gratis de HTML
 =============
 
-Initio is a fully featured html5 theme which will help you create a stylish personal or company site. 
-6 page layout templates should cover all your development needs. 
-Font Awesome 4, parallax effects and more are included (but can be turned off of course)
+Modificada por Jaglux12 con la finalidad de entregar el trabajo práctico numero 1 de la materia titulada "Estándares para el desarrollo"
+web" - Tecnicatura Universitaria en Sofware Libre.
 
-
-License
+Licencia
 -------
 **Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
 
-
-Bug tracker
------------
-
-Found a bug? Please create an issue here on GitHub! 
-https://github.com/pozh/Initio/issues
-
-
-
-Credits
+Creditos
 -------
-* Design and development: **Sergey Pozhilov** - http://pozhilov.com
-* More free templates by Sergey: http://gettemplate.com
+* Desarrollado por: [**Sergey Pozhilov**](http://pozhilov.com)
+* Modificado por: [**Jaglux12**](www.jaglux12.github.io)
 
-Photos used in the template
+¿Cómo ver la página web?
 -------
-* http://www.publicdomainpictures.net/view-image.php?image=19999
-* http://www.publicdomainpictures.net/view-image.php?image=6354
-* http://imcreator.com/free/business/macbook-computer
-* http://unsplush.com
+Para ingresar y ver el contenido de la página web, simplemente tenemos que acceder al siguiente link [click acá.](www.jaglux12.github.io/actividad_1_estandares_unl)
+En caso de que ser requiera descargar el proyecto y probarlo en una computadora (para realizar sus respectivas modificaciones), creamos 
+un [fork](https://docs.github.com/es/get-started/quickstart/fork-a-repo) del repositorio. Luego simplemente lo tengamos vinculador a nuestro
+perfil de GitHub, clonamos el repositorio con el siguiente comando.
+
+	git clone https:/www.github.com/jaglux12/actividad_1_estandares_unl
+
+¿Cómo logramos levantar el proyecto para que se pueda ver una página web?
+------
+Esto se logra mediante la utilización de la herramienta GitHub pages, la cual se activa en el momento de realizar una rama de nuestro proyecto
+esta debe tener el nombre de gh-pages. 
+Comandos a seguir para crear una página web para nuestros proyectos:
+
+	git branch gh-pages
+	git checkout gh-pages
+	# realizamos los cambios dentro de la rama y luego
+	# subimos los cambios a nuestro proyecto
+	git push https://*token personal*@github.com/*nombre de usuario*/*repositorio*
+
+----
+Edited by [Jaglux12](www.github.com/jaglux12)

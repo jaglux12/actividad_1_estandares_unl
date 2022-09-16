@@ -1,7 +1,7 @@
 Initio - Plantilla gratis de HTML
 =============
 
-Modificada por Jaglux12 con la finalidad de entregar el trabajo práctico numero 1 de la materia titulada "Estándares para el desarrollo"
+Modificada por Jaglux12 con la finalidad de entregar el trabajo práctico numero 1 de la materia titulada "Estándares para el desarrollo 
 web" - Tecnicatura Universitaria en Sofware Libre.
 
 Licencia
@@ -15,9 +15,9 @@ Creditos
 
 ¿Cómo ver la página web?
 -------
-Para ingresar y ver el contenido de la página web, simplemente tenemos que acceder al siguiente link [click acá.](www.jaglux12.github.io/actividad_1_estandares_unl)
-En caso de que ser requiera descargar el proyecto y probarlo en una computadora (para realizar sus respectivas modificaciones), creamos 
-un [fork](https://docs.github.com/es/get-started/quickstart/fork-a-repo) del repositorio. Luego simplemente lo tengamos vinculador a nuestro
+Para ingresar y ver el contenido de la página web, simplemente tenemos que acceder al siguiente link [click acá.](https://www.jaglux12.github.io/actividad_1_estandares_unl)
+En caso de que se requiera descargar el proyecto y probarlo en una computadora (para realizar sus respectivas modificaciones), creamos 
+un [fork](https://docs.github.com/es/get-started/quickstart/fork-a-repo) del repositorio. Luego simplemente lo tenemos vinculado a nuestro
 perfil de GitHub, clonamos el repositorio con el siguiente comando.
 
 	git clone https:/www.github.com/jaglux12/actividad_1_estandares_unl

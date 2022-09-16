@@ -8,10 +8,6 @@ Licencia
 -------
 **Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
 
-Creditos
--------
-* Modificado por: [**Jaglux12**](www.jaglux12.github.io)
-
 ¿Cómo ver la página web?
 -------
 Para ingresar y ver el contenido de la página web, simplemente tenemos que acceder al siguiente link [click acá.](https://www.jaglux12.github.io/actividad_1_estandares_unl)

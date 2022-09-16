@@ -10,7 +10,7 @@ Licencia
 
 ¿Cómo ver la página web?
 -------
-Para ingresar y ver el contenido de la página web, simplemente tenemos que acceder al siguiente link [click acá.](https://www.jaglux12.github.io/actividad_1_estandares_unl)
+Para ingresar y ver el contenido de la página web, simplemente tenemos que acceder al siguiente link [click acá.](https://jaglux12.github.io/actividad_1_estandares_unl)
 En caso de que se requiera descargar el proyecto y probarlo en una computadora (para realizar sus respectivas modificaciones), creamos
 un [fork](https://docs.github.com/es/get-started/quickstart/fork-a-repo) del repositorio. Luego simplemente lo tenemos vinculado a nuestro
 perfil de GitHub, clonamos el repositorio con el siguiente comando.

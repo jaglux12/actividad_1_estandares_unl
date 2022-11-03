@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "animate.css": "^3.1.1",
+    "bootstrap": "^3.3.6",
+    "et-line": "^1.0.1",
+    "express": "^4.18.2",
+    "font-awesome": "^4.3.0",
+    "magnific-popup": "^1.1.0",
+    "owl-carousel-2-beta": "^2.1.2"
+  },
+  "name": "actividad_1_estandares_unl",
+  "description": "Initio - Plantilla gratis de HTML\r =============",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaglux12/actividad_1_estandares_unl.git"
+  },
+  "author": "jaglux12",
+  "license": "CC BY 3.0",
+  "bugs": {
+    "url": "https://github.com/jaglux12/actividad_1_estandares_unl/issues"
+  },
+  "homepage": "https://github.com/jaglux12/actividad_1_estandares_unl#readme"
+}
